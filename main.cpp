@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    // define variables and get value
+    // define variables and get values
     int a, b;
     cout << "Please give a number as 1st variable: ";
     cin >>  a;
